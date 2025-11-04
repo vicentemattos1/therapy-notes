@@ -284,6 +284,15 @@ Custom theme configured with:
 - Notes are limited to 500 characters to maintain concise session documentation
 - The dashboard calculates metrics client-side, which may impact performance with very large datasets
 
+### Screenshots
+
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/8af7ea6e-ea4d-492b-995f-6926f9204d85" />
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/890f5a69-290e-4b78-968e-006af2639798" />
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/6219decb-2bb6-4b66-81cc-7ef845acf572" />
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/05e38f86-76b7-4e85-a4f1-baf71ac9027a" />
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/13767176-0fc9-4021-b489-e278072c353b" />
+
+
 ## 🤝 Contributing
 
 This is a learning project. Feel free to fork, modify, and use it as a starting point for your own therapy note management system.
