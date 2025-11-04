@@ -13,6 +13,7 @@ export const getNotes = async () =>{
   const {data, error} = await supabase
   .from('session_notes')
   .select('*')
+  .order('updated_at', { ascending: false })
 
   if(error){
     throw new Error(error.message)
